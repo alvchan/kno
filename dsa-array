@@ -15,7 +15,7 @@ As a result of having index-based reading, reads are of constant time complexity
 (1 t.c.) and are often very fast (due to hardware native arithmetic operations).
 Conversely, searching is a slow operation that requires walking/iterating
 through to check every element in a linear search (N t.c.), or a binary search
-(N^2 t.c.) if given a sorted array.
+(logN t.c.) if given a sorted array.
 
 Inserting additional elements is also a tricky business when dealing with
 arrays. Often times, arrays are made to be oversized (and later properly
