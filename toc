@@ -1,10 +1,16 @@
 Table of Contents [toc]
 
 CompTIA A+
-ca-accessp	Access Points
-ca-netdev	Network Devices
-ca-routers	Routers
-ca-switches	Switches
+cta-accessp		Access Point
+cta-firewall		Firewall
+cta-netdev		Network Device
+cta-patchp		Patch Panel
+cta-poweth		Power over Ethernet (PoE)
+cta-router		Router
+cta-switch		Switch
+
+Data Structures and Algorithms
+dsa
 
 Introduction to Unix, C and C++ (CPS 393)
 

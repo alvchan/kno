@@ -1,4 +1,4 @@
-Access Points [ca-accessp]
+Access Point [cta-accessp]
 
 Network device to provide wireless connectivity for a local network from a wired
 network. It simply extends or "bridges" a wired network onto the wireless
@@ -9,4 +9,5 @@ accordingly.
 ---
 
 Akin
-Routers [ca-routers]
+Network Device [cta-netdev]
+Router [cta-router]

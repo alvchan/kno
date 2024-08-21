@@ -1,3 +1,14 @@
-Network Devices [ca-netdev]
+Network Device [ca-netdev]
 
+asd
 
+Typically referred to as OSI layer 3 devices (Network).
+
+---
+
+Akin
+Access Point [ca-accessp]
+Firewall [ca-firewall]
+Patch Panel [ca-patchp]
+Router [ca-router]
+Switch [ca-switch]
