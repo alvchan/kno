@@ -11,4 +11,8 @@ These four tend to have differing speeds and Big O notations across varying
 types of data structures. For example, an array is fast at read operations and
 slow at insertions, while a linked list is slow at reads and fast at inserts.
 
+Speed of such operations are typically measured in terms of # of steps, not real
+time, since it can vary based on CPU load, hardware differences, job/input
+differences, &c.
+
 ---
