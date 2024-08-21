@@ -1,6 +1,12 @@
 Table of Contents [toc]
 
-CompTIA A+
+C (ckr)
+ckr-*
+
+C++ (cpp)
+cpp-*
+
+CompTIA A+ (cta)
 cta-accessp         Access Point
 cta-firewall        Firewall
 cta-netdev          Network Device
@@ -9,13 +15,15 @@ cta-poweth          Power over Ethernet
 cta-router          Router
 cta-switch          Switch
 
-Data Structures and Algorithms
+Data Structures and Algorithms (dsa)
 dsa-array           Array
 dsa-operation       Basic Operations
 
-Introduction to Unix, C and C++ (CPS 393)
+Linear Algebra (lin)
+lin-*
 
-Linear Algebra (MTH 108)
+Unix/*nix (unx)
+unx-*
 
 ---
 
