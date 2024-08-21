@@ -1,16 +1,17 @@
 Table of Contents [toc]
 
 CompTIA A+
-cta-accessp     Access Point
-cta-firewall    Firewall
-cta-netdev      Network Device
-cta-patchp      Patch Panel
-cta-poweth      Power over Ethernet
-cta-router      Router
-cta-switch      Switch
+cta-accessp         Access Point
+cta-firewall        Firewall
+cta-netdev          Network Device
+cta-patchp          Patch Panel
+cta-poweth          Power over Ethernet
+cta-router          Router
+cta-switch          Switch
 
 Data Structures and Algorithms
-dsa-operation		Basic Operations
+dsa-array           Array
+dsa-operation       Basic Operations
 
 Introduction to Unix, C and C++ (CPS 393)
 
@@ -19,4 +20,4 @@ Linear Algebra (MTH 108)
 ---
 
 Guidelines
-qask	Questions to Ask
+qask                Questions to Ask
