@@ -11,6 +11,6 @@ Created out of a need for a dumber variant of Obsidian and its link system.
 Originally was made using plaintext and Vim link jumps with `gf`/`C-o` and
 `less` to read like `man`.
 
-Named `kno` as search for the word 'know', but as a three letter word/name like
+Named `kno` as short for the word 'know', but as a three letter word/name like
 `vim`/`man`/`GNU`. Meant to be pronounced as 'kuh-noo', which is obviously
 inspired by/mocking the pronounciation of GNU (guh-noo).
