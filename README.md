@@ -8,7 +8,7 @@ usage.
 ## Origin
 
 Created out of a need for a dumber variant of Obsidian and its link system.
-Originally was made using plaintext and Vim link jumps with `gf`, `C-o` and
+Originally was made using plaintext and Vim link jumps with `gf`/`C-o` and
 `less` to read like `man`.
 
 Named `kno` as search for the word 'know', but as a three letter word/name like
