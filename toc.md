@@ -5,17 +5,17 @@
 ## C++ (cpp)
 
 ## CompTIA A+ (cta)
-[cta-router.md](Router)
-[cta-switch.md](Switch)
-[cta-accessp.md](Access Point)
-[cta-firewall.md](Firewall)
-[cta-patchp.md](Patch Panel)
-[cta-poweth.md](Power over Ethernet)
+[Router](cta-router.md)
+[Switch](cta-switch.md)
+[Access Point](cta-accessp.md)
+[Firewall](cta-firewall.md)
+[Patch Panel](cta-patchp.md)
+[Power over Ethernet](cta-poweth.md)
 
 ## Data Structures and Algorithms (dsa)
-[dsa-operation.md](Basic Operations)
-[dsa-array.md](Array)
-[dsa-set.md](Set)
+[Basic Operations](dsa-operation.md)
+[Array](dsa-array.md)
+[Set](dsa-set.md)
 
 ## Linear Algebra (lin)
 
@@ -24,4 +24,4 @@
 ---
 
 ## Guidelines
-[qask.md](Questions to Ask)
+[Questions to Ask](qask.md)
