@@ -5,6 +5,10 @@ format. Supposedly a way to store and access via `vim` and `less` with goals of
 working like `man` or something closer to Obsidian for more intuitive, efficient
 usage.
 
+## Usage
+
+View `toc.md` from the repo and browse notes from there.
+
 ## Origin
 
 Created out of a need for a dumber variant of Obsidian and its link system.
