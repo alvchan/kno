@@ -21,7 +21,9 @@ Inserting additional elements is also a tricky business when dealing with
 arrays. Often times, arrays are made to be oversized (and later properly
 resized) or dynamically resized as demand for more space arrives. This leads to
 wasted space from overusing memory and/or wasted compute time from repeated
-resize operations.
+resize operations. Additionally, insertion in the middle of the array requires
+N t.c. to shuffle over enough spaces to fit the new elements, where N is the
+number of elements from the desired index to the end.
 
 Deletion suffers from the same problems as insertions, just as inserting
 requires dynamic resizing to grow, we need it here to dynamically shrink or risk
