@@ -14,3 +14,9 @@ Originally was made using plaintext and Vim link jumps with `gf`/`C-o` and
 Named `kno` as short for the word 'know', but as a three letter word/name like
 `vim`/`man`/`GNU`. Meant to be pronounced as 'kuh-noo', which is obviously
 inspired by/mocking the pronunciation of GNU (guh-nu).
+
+## Philosophy
+
+Kno is more than just a way for me to store information, it is also meant as
+a way to distribute said info via GitHub to others. I permit anyone to use it as
+they'd like and only request that they give feedback where appropriate.
