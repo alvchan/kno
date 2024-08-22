@@ -1,4 +1,4 @@
-Access Point [cta-accessp.md]
+# Access Point [cta-accessp.md]
 
 Network device to provide wireless connectivity for a local network from a wired
 network. It simply extends or "bridges" a wired network onto the wireless
@@ -8,5 +8,5 @@ accordingly.
 
 ---
 
-Akin
+## Akin
 [Router](cta-router.md)

@@ -1,4 +1,4 @@
-Patch Panel [cta-patchp.md]
+# Patch Panel [cta-patchp.md]
 
 An intermediary device to permanently connect many systems to one networking
 setup. On the other side, has RJ45 interfaces to be connected with the actual
@@ -12,5 +12,5 @@ the setup.
 
 ---
 
-Akin
+## Akin
 [Router](cta-router.md)
