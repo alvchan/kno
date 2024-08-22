@@ -19,4 +19,5 @@ inspired by/mocking the pronunciation of GNU (guh-nu).
 
 Kno is more than just a way for me to store information, it is also meant as
 a way to distribute said info via GitHub to others. I permit anyone to use it as
-they'd like and only request that they give feedback where appropriate.
+they'd like and only request that they give feedback where appropriate. Notes
+will be released on a rolling basis, i.e. as I complete and polish them.
