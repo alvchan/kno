@@ -13,4 +13,4 @@ Originally was made using plaintext and Vim link jumps with `gf`/`C-o` and
 
 Named `kno` as short for the word 'know', but as a three letter word/name like
 `vim`/`man`/`GNU`. Meant to be pronounced as 'kuh-noo', which is obviously
-inspired by/mocking the pronounciation of GNU (guh-nu).
+inspired by/mocking the pronunciation of GNU (guh-nu).
