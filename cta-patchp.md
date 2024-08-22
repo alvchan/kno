@@ -13,4 +13,4 @@ the setup.
 ---
 
 Akin
-Switch [cta-switch.md]
+[Router](cta-router.md)

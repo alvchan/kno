@@ -10,7 +10,7 @@
 [Access Point](cta-accessp.md)
 [Firewall](cta-firewall.md)
 [Patch Panel](cta-patchp.md)
-[Power over Ethernet](cta-poweth.md)
+[_Power over Ethernet_](cta-poweth.md)
 
 ## Data Structures and Algorithms (dsa)
 [Basic Operations](dsa-operation.md)

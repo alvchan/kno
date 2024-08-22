@@ -25,4 +25,4 @@ connected systems and a greater need for speed.
 ---
 
 Akin
-Router [cta-router.md]
+[Router](cta-router.md)

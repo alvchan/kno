@@ -7,4 +7,4 @@ network types.
 ---
 
 Akin
-Switch [cta-switch.md]
+[Switch](cta-switch.md)

@@ -40,4 +40,5 @@ quite favorable when read/access operations are littered all over.
 
 ---
 
-Akin Basic Operations [dsa-operation.md]
+Akin
+[Basic Operations](dsa-operation.md)

@@ -12,4 +12,4 @@ just like how routers do.
 ---
 
 Akin
-Router [cta-router.md]
+[Router](cta-router.md)
