@@ -1,4 +1,4 @@
-Switch [cta-switch]
+Switch [cta-switch.md]
 
 Network device that forwards traffic based on data link address. Uses special
 circuits for direct hardware acceleration to gain high throughput.
@@ -25,5 +25,4 @@ connected systems and a greater need for speed.
 ---
 
 Akin
-Network Device [cta-netdev]
-Router [cta-router]
+Router [cta-router.md]

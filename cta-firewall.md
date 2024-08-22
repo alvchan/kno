@@ -1,4 +1,4 @@
-Firewall [cta-firewall]
+Firewall [cta-firewall.md]
 
 A network device that filters traffic out by port number or application.
 Firewalls also provide a range of other security features at endpoints, such as
@@ -12,5 +12,4 @@ just like how routers do.
 ---
 
 Akin
-Network Device [cta-netdev]
-Router [cta-router]
+Router [cta-router.md]

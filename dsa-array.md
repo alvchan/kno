@@ -1,4 +1,4 @@
-Array [dsa-array]
+Array [dsa-array.md]
 
 The most basic structure available in computer science, serving as a container
 or list of N elements placed side-by-side (contiguously). They are often of
@@ -40,4 +40,4 @@ quite favorable when read/access operations are littered all over.
 
 ---
 
-Akin Basic Operations (dsa-operation)
+Akin Basic Operations [dsa-operation.md]

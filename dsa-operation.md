@@ -1,4 +1,4 @@
-Basic Operations [dsa-operation]
+Basic Operations [dsa-operation.md]
 
 Data structures always have the following 4 universal operations to interact
 with its data. They are:
