@@ -41,6 +41,12 @@ should be familiar with are O(N) (linear), O(N<sup>2</sup>) (quadratic), O(1)
 their curves. For example, linear is meant as linear growth, as it is a diagonal
 line crawling up some constant Y for every X.
 
+It is worth noting that complexity in Big O is measured to its "worst case",
+meaning if a linear search occurs on a list of N elements, then on a bad day our
+element may be the last, as in an O(N) search. It would not make sense to say
+_all_ linear searches have constant t.c. because one of them found its target at
+the first index.
+
 ---
 
 ## Akin
