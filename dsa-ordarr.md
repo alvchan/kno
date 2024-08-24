@@ -24,5 +24,6 @@ aforementioned superpower of binary search.
 ---
 
 ## Akin
+
 [Array](dsa-array.md)
 [Searching](dsa-search.md)

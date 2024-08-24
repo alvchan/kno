@@ -1,4 +1,4 @@
-Questions to Ask [qask.md]
+# Questions to Ask [qask.md]
 
 When thinking about some content and how best to frame it in your notes, with
 the goal of better understanding the big picture, try to apply these questions
@@ -12,5 +12,6 @@ into how you "solve" the missing pieces.
 
 ---
 
-Akin
+## Akin
+
 Table of Contents [toc.md]

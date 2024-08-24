@@ -26,4 +26,6 @@ travel time for pre-sorted data, respectively.
 ---
 
 ## Akin
+
 [Array](dsa-array.md)
+[Search](dsa-search.md)

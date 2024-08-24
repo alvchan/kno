@@ -13,17 +13,18 @@ quantifiers; for all x, there is a real x<sup>2</sup> for each).
 
 We express Big O with the notation "O(f)", where f is whatever function an
 algorithm's complexity may lie in. A few examples may be O(N) for linear t.c.,
-O(1) for constant t.c., O(N<sup>2</sup>) for quadratic, etc.. This notation is pronounced
-as "Oh of N" or "Oh of 1", depending on what type of function you have.
+O(1) for constant t.c., O(N<sup>2</sup>) for quadratic, etc.. This notation is
+pronounced as "Oh of N" or "Oh of 1", depending on what type of function you
+have.
 
 In Big O, we never keep any extraneous values (such as coefficients and bases),
-and we keep the function in its base form. For example, log<sub>2</sub>N of a binary
-search is written simply as O(logN). We do this because we only really care
-about how the function grows, with respect to other types of functions (e.g.
-linear, quadratic, factorial, etc.), i.e. in the "shape" of a graph. To expand,
-we might be interested in properties such as a logarithm grows quickly early on,
-but slows down and flattens out its curve (meaning it's efficient in large
-quantities).
+and we keep the function in its base form. For example, log<sub>2</sub>N of
+a binary search is written simply as O(logN). We do this because we only really
+care about how the function grows, with respect to other types of functions
+(e.g.  linear, quadratic, factorial, etc.), i.e. in the "shape" of a graph. To
+expand, we might be interested in properties such as a logarithm grows quickly
+early on, but slows down and flattens out its curve (meaning it's efficient in
+large quantities).
 
 To calculate a function's Big O complexity, count the number of elements or
 iterations a particular data structure or algorithm would be required to scrub
@@ -34,11 +35,11 @@ component, chances are that it has constant complexity.
 
 To analyze complexity, we often refer to the list of common complexities or plot
 them out to see the differing curves. Some common complexities every CS student
-should be familiar with are O(N) (linear), O(N<sup>2</sup>) (quadratic), O(1) (constant),
-O(N!) (factorial), O(X<sup>N</sup>) (exponential) and O(logN) (logarithmic). They all get
-their names from their mathematical properties of their curves. For example,
-linear is meant as linear growth, as it is a diagonal line crawling up some
-constant Y for every X.
+should be familiar with are O(N) (linear), O(N<sup>2</sup>) (quadratic), O(1)
+(constant), O(N!) (factorial), O(X<sup>N</sup>) (exponential) and O(logN)
+(logarithmic). They all get their names from their mathematical properties of
+their curves. For example, linear is meant as linear growth, as it is a diagonal
+line crawling up some constant Y for every X.
 
 ---
 
