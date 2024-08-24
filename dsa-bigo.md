@@ -2,8 +2,10 @@
 
 Big O is a consistent and concise way to quantify an algorithm's efficiency.
 Algorithm and data structure analysis often revolve around the use of Big O due
-to its easy to understand growth via mathematical curves. What it measures is
-often referred to as "efficiency", or space and time complexity.
+to its easy to understand growth via mathematical curves. One could accurately
+say that Big O answers the question of "How does the number of steps grow, with
+respect to the data?" What it measures is often referred to as "efficiency", or
+space and time complexity.
 
 This method achieves consistency by counting the number of possible steps taken
 in each possible case of the algorithm, expressed as O(N), where N is some
