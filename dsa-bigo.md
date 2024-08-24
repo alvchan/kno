@@ -35,6 +35,10 @@ number like "5 iterations". So, a single for loop typically translates into
 O(N), and a nested double for loop is O(N<sup>2</sup>). If there is no iterative
 component, chances are that it has constant complexity.
 
+For constant complexity, as in O(1) cases, it really just means that it takes
+one step to finish, despite the number of elements available. In other words, it
+takes a constant amount of time (always one step) to complete its task.
+
 To analyze complexity, we often refer to the list of common complexities or plot
 them out to see the differing curves. Some common complexities every CS student
 should be familiar with are O(N) (linear), O(N<sup>2</sup>) (quadratic), O(1)
