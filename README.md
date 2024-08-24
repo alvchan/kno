@@ -7,7 +7,7 @@ usage.
 
 ## Usage
 
-View `toc.md` from the repo and browse notes from there.
+View [`toc.md`](toc.md) from the repo and browse notes from there.
 
 ## Origin
 
