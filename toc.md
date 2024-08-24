@@ -17,11 +17,13 @@
 [Basic Operations](dsa-operation.md)
 [Array](dsa-array.md)
 [Set](dsa-set.md)
+[Search](dsa-search.md)
+[Big O](dsa-bigo.md)
 [Sources](dsa-src.md)
 
 ## Linear Algebra (lin)
 
-## Unix/*nix (unx)
+## Unix/\*nix (unx)
 
 ---
 
