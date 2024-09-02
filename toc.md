@@ -19,6 +19,7 @@
 [Set](dsa-set.md)
 [Search](dsa-search.md)
 [Big O](dsa-bigo.md)
+[Sort](dsa-sort.md)
 [Sources](dsa-src.md)
 
 ## Linear Algebra (lin)
